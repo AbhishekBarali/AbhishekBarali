@@ -2,15 +2,14 @@
 
 <div align="center">
 
-```text
-                                                                              
+```yaml
+ABHISHEK: |
      █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗             
     ██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝             
     ███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝              
     ██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗              
     ██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗             
     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝             
-                                                                              
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=480&height=50&lines=%E2%9D%AF+BSc.+Computer+Science+%7C+builder;%E2%9D%AF+shipping+ai+software+%26+tools;%E2%9D%AF+founder+%40+kaiki.dev" alt="Typing SVG" />
@@ -29,7 +28,7 @@
 
 <div align="center">
 
-### `❯ ls /tech-stack/`
+### `â¯ ls /tech-stack/`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
