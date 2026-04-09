@@ -1,26 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:1a1a2e&height=1&section=header" />
-
 <div align="center">
 
-```yaml
-ABHISHEK: |
-     █████╗ ██████╗ ██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗  ██╗             
-    ██╔══██╗██╔══██╗██║  ██║██║██╔════╝██║  ██║██╔════╝██║ ██╔╝             
-    ███████║██████╔╝███████║██║███████╗███████║█████╗  █████╔╝              
-    ██╔══██║██╔══██╗██╔══██║██║╚════██║██╔══██║██╔══╝  ██╔═██╗              
-    ██║  ██║██████╔╝██║  ██║██║███████║██║  ██║███████╗██║  ██╗             
-    ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝             
-```
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&duration=1&pause=9999999&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=80&lines=ABHISHEK+BARALI" alt="ABHISHEK BARALI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=480&height=50&lines=%E2%9D%AF+BSc.+Computer+Science+%7C+builder;%E2%9D%AF+shipping+ai+software+%26+tools;%E2%9D%AF+founder+%40+kaiki.dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=50&lines=%E2%9D%AF+BSc.+Computer+Science+%7C+builder;%E2%9D%AF+shipping+ai+software+%26+tools;%E2%9D%AF+founder+%40+kaiki.dev" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Personal_Site-abhishekbarali.com.np-0d1117?style=flat-square&logo=google-chrome&logoColor=58A6FF)](https://www.abhishekbarali.com.np/)
-[![KAIKI](https://img.shields.io/badge/My_Startup-kaiki.dev-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=58A6FF)](https://kaiki.dev)
+[![Portfolio](https://img.shields.io/badge/Personal_Site-abhishekbarali.com.np-0d1117?style=flat-square&logo=google-chrome&logoColor=58A6FF)](https://www.abhishekbarali.com.np/)&nbsp;
+[![KAIKI](https://img.shields.io/badge/My_Startup-kaiki.dev-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=58A6FF)](https://kaiki.dev)&nbsp;
 [![HuggingFace](https://img.shields.io/badge/AI_Models-HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=58A6FF)](https://huggingface.co/Abhsihek12)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/abhishek-barali-8a1a2a1a6/)
-[![Email](https://img.shields.io/badge/Contact-abhibidut@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:abhibidut@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/abhishek-barali-8a1a2a1a6/)&nbsp;
+[![Email](https://img.shields.io/badge/Contact-abhibidut%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:abhibidut@gmail.com)
 
 </div>
 
@@ -28,7 +19,7 @@ ABHISHEK: |
 
 <div align="center">
 
-### `â¯ ls /tech-stack/`
+### `❯ ls /tech-stack/`
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58A6FF)
