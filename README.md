@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&duration=1&pause=9999999&color=58A6FF&center=true&vCenter=true&random=false&width=650&height=80&lines=ABHISHEK+BARALI" alt="ABHISHEK BARALI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=50&lines=%E2%9D%AF+BSc.+Computer+Science+%7C+builder;%E2%9D%AF+shipping+ai+software+%26+tools;%E2%9D%AF+founder+%40+kaiki.dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&height=50&lines=%E2%9D%AF+BSc.+Computer+Science+%7C+builder;%E2%9D%AF+shipping+AI+software+%26+tools;%E2%9D%AF+founder+%40+kaiki.dev" alt="Typing SVG" />
 
 <br/>
 
