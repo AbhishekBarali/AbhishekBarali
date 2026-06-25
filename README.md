@@ -21,7 +21,7 @@
 
 ### `❯ whoami`
 
-Computer Science student and founder of **KAIKI**. I build **agentic AI**, autonomous systems that plan, call tools, and act toward a goal with minimal hand-holding, along with the orchestration, retrieval, and guardrails that keep them reliable in production.
+Hey, I'm Abhishek. Computer Science student and founder of **KAIKI**. I build **agentic AI**, autonomous systems that plan, call tools, and act toward a goal with minimal hand-holding, along with the orchestration, retrieval, and guardrails that keep them reliable in production.
 
 Mostly working across multi-agent orchestration, RAG, tool-calling over MCP, and LLM-powered products. The field moves every week; I keep up by shipping.
 
@@ -48,7 +48,7 @@ Mostly working across multi-agent orchestration, RAG, tool-calling over MCP, and
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0e18?style=flat-square&logo=postgresql&logoColor=4FC3F7) ![Prisma](https://img.shields.io/badge/Prisma-0a0e18?style=flat-square&logo=prisma&logoColor=FFFFFF) ![Convex](https://img.shields.io/badge/Convex-0a0e18?style=flat-square&logo=convex&logoColor=F3B01C)
 
-![AWS](https://img.shields.io/badge/AWS-0a0e18?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-0a0e18?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjN2ZhOGQ4IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D) ![Docker](https://img.shields.io/badge/Docker-0a0e18?style=flat-square&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-0a0e18?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/AWS-0a0e18?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjRkY5OTAwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNi40MyAxNy41N2gxMC43MVY2Ljg2SDYuNDN2MTAuNzFaTTE4IDYuODZoMS43MXYuODU3SDE4VjkuNDNoMS43MXYuODU3SDE4djEuMjhoMS43MXYuODU4SDE4djEuNzFoMS43MVYxNUgxOHYxLjcxaDEuNzF2Ljg1N0gxOHYuMDU5YS44LjggMCAwIDEtLjc5OS44aC0uMDU4djEuNzFoLS44NTd2LTEuNzFIMTQuNTd2MS43MWgtLjg1N3YtMS43MUgxMi40M3YxLjcxaC0uODU4di0xLjcxSDkuODZ2MS43MUg5di0xLjcxSDcuMjl2MS43MWgtLjg1N3YtMS43MUg2LjM3YS44LjggMCAwIDEtLjc5OS0uOHYtLjA1OEg0LjI5di0uODU3SDUuNTdWMTVINC4yOXYtLjg1N0g1LjU3di0xLjcxSDQuMjl2LS44NThINS41N3YtMS4yOEg0LjI5di0uODU3SDUuNTdWNy43MUg0LjI5di0uODU3SDUuNTdWNi44YS44LjggMCAwIDEgLjgtLjc5OWguMDU4VjQuMjloLjg1N1Y2SDlWNC4yOWguODU3VjZoMS43MVY0LjI5aC44NThWNmgxLjI4VjQuMjloLjg1N1Y2aDEuNzJWNC4yOWguODU3VjZoLjA1OGEuOC44IDAgMCAxIC43OTkuOHYuMDU4Wk0xMi40MyAyMy4wOWEuNTQuMDUgMCAwIDEtLjU0LjA1SC45MWEuNTMuMDUgMCAwIDEtLjA1My0uMDUzVjExLjYyYzAtLjMuMDItLjU0LjA1LS4wNTRoMi41MnYtLjg1N0guOTFhLjkxMS45MTEgMCAwIDAtLjkxLjkxVjIzLjA5YzAgLjUwMi40MS45MS45MS45MWgxMS40NmEuOTEuOTEgMCAwIDAgLjkxLS45MVYyMWgtLjg1NlpNMjQgLjkxdjExLjQ2YS45MS45MSAwIDAgMS0uOTEuOTFoLTIuNTJ2LS44NTZoMi41MmEuNTQuMDUgMCAwIDAgLjA1My0uMDU0Vi45MWEuNTMuMDUgMCAwIDAtLjA1My0uMDUzSDExLjYyYS41My4wNSAwIDAgMC0uNTQuMDV2Mi41MmgtLjg1N1YuOTFjMC0uNTAyLjQxLS45MS45MS0uOTFIMjMuMDlhLjkxLjkxIDAgMCAxIC45MS45MVoiLz48L3N2Zz4%3D%3D) ![Azure](https://img.shields.io/badge/Azure-0a0e18?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjN2ZhOGQ4IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0IEF6dXJlPC90aXRsZT48cGF0aCBkPSJNMjIuMzc5IDIzLjM0M2ExLjYyIDEuNjIgMCAwIDAgMS41MzYtMi4xNHYuMDAyTDE3LjM1IDEuNzZBMS42MiAxLjYyIDAgMCAwIDE1LjgxNi42NTdIOC4xODRBMS42MiAxLjYyIDAgMCAwIDYuNjUgMS43NkwuMDg2IDIxLjIwNGExLjYyIDEuNjIgMCAwIDAgMS41MzYgMi4xMzloNC43NDFhMS42MiAxLjYyIDAgMCAwIDEuNTM1LTEuMTAzbC45NzctMi44OTIgNC45NDcgMy42NzVjLjI4LjIwOC42MTguMzIuOTY2LjMybS0zLjA4NC0xMi41MzEgMy42MjQgMTAuNzM5YS41NC41NCAwIDAgMS0uNTEuNzEzdi0uMDAxaC0uMDNhLjU0LjU0IDAgMCAxLS4zMjItLjEwNmwtOS4yODctNi45aDQuODUzbTYuMzEzIDcuMDA2Yy4xMTYtLjMyNi4xMy0uNjk0LjAwNy0xLjA1OEw5Ljc5IDEuNzZhMS43MjIgMS43MjIgMCAwIDAtLjAwNy0uMDJoNi4wMzRhLjU0LjU0IDAgMCAxIC41MTIuMzY2bDYuNTYyIDE5LjQ0NWEuNTQuNTQgMCAwIDEtLjMzOC42ODQiLz48L3N2Zz4%3D) ![Docker](https://img.shields.io/badge/Docker-0a0e18?style=flat-square&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-0a0e18?style=flat-square&logo=vercel&logoColor=FFFFFF)
 
 </div>
 
@@ -60,5 +60,13 @@ Mostly working across multi-agent orchestration, RAG, tool-calling over MCP, and
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=AbhishekBarali&show_icons=true&hide_rank=true&hide_border=true&bg_color=05060c&title_color=7fa8d8&icon_color=7fa8d8&text_color=8d9ab4" alt="stats" />
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBarali&layout=compact&langs_count=6&hide=html,css,nsis&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=05060c&title_color=7fa8d8&text_color=8d9ab4" alt="top languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub><i>Some of these commits were written by agents I built. I supervise. Mostly.</i></sub>
 
 </div>
