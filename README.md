@@ -21,7 +21,7 @@
 
 ### `❯ whoami`
 
-Hey, I'm Abhishek. Computer Science student and founder of **KAIKI**. I build **agentic AI**, autonomous systems that plan, call tools, and act toward a goal with minimal hand-holding, along with the orchestration, retrieval, and guardrails that keep them reliable in production.
+Hey 🖐️, I'm Abhishek. Computer Science student and founder of **KAIKI**. I build **agentic AI**, autonomous systems that plan, call tools, and act toward a goal with minimal hand-holding, along with the orchestration, retrieval, and guardrails that keep them reliable in production.
 
 Mostly working across multi-agent orchestration, RAG, tool-calling over MCP, and LLM-powered products. The field moves every week; I keep up by shipping.
 
