@@ -52,11 +52,7 @@ Mostly working across multi-agent orchestration, RAG, tool-calling over MCP, and
 
 </div>
 
-<br/>
 
-### `❯ git log --stat`
-
-<br/>
 
 <div align="center">
 
