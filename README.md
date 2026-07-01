@@ -56,13 +56,6 @@ Mostly working across multi-agent orchestration, RAG, tool-calling over MCP, and
 
 ### `❯ git log --stat`
 
-<div align="center" class="stats">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AbhishekBarali&show_icons=true&hide_rank=true&hide_border=true&bg_color=05060c&title_color=7fa8d8&icon_color=7fa8d8&text_color=8d9ab4" alt="stats" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBarali&layout=compact&langs_count=6&hide=html,css,nsis&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=05060c&title_color=7fa8d8&text_color=8d9ab4" alt="top languages" />
-
-</div>
-
 <br/>
 
 <div align="center">
