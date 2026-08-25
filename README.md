@@ -56,6 +56,6 @@ Mostly working across multi-agent orchestration, RAG, tool-calling over MCP, and
 
 <div align="center">
 
-<sub><i>Some of these commits were written by agents I built. I supervise. Mostly.</i></sub>
+
 
 </div>
