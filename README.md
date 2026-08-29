@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![kaiki.dev](https://img.shields.io/badge/kaiki.dev-0a0e18?style=flat-square&logo=firefoxbrowser&logoColor=FF7139)](https://kaiki.dev) [![Site](https://img.shields.io/badge/abhishekbarali.com.np-0a0e18?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://www.abhishekbarali.com.np/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0a0e18?style=flat-square&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/Abhsihek12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e18?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abhishek-barali-8a1a2a1a6/) [![Email](https://img.shields.io/badge/Email-0a0e18?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:abhibidut@gmail.com)
+[![kaiki.dev](https://img.shields.io/badge/kaiki.dev-0a0e18?style=flat-square&logo=firefoxbrowser&logoColor=FF7139)](https://kaiki.dev) [![Site](https://img.shields.io/badge/abhishekbarali.com.np-0a0e18?style=flat-square&logo=googlechrome&logoColor=4285F4)](https://www.abhishekbarali.com.np/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0a0e18?style=flat-square&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/AbhishekBarali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0e18?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/abhishek-barali-8a1a2a1a6/) [![Email](https://img.shields.io/badge/Email-0a0e18?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:abhibidut@gmail.com)
 
 </div>
 
